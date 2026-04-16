@@ -58,8 +58,10 @@ npm run dev
 # 화면 캡쳐 
 ### 상급병원 워크스페이스
 <img width="1215" height="940" alt="image" src="https://github.com/user-attachments/assets/9bf8e4bf-55a9-497a-9c9e-30f67cfe6bcf" />
+
 ### 환자 회송 요청
 <img width="1226" height="888" alt="image" src="https://github.com/user-attachments/assets/267f63f6-1eca-442a-819f-93b6ca67a2f4" />
+
 ### 협력병원 워크스페이스
 <img width="1217" height="593" alt="image" src="https://github.com/user-attachments/assets/d4323272-4f28-4fd6-872f-4cd0ac2e549d" />
 
