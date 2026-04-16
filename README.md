@@ -53,5 +53,15 @@ npm run dev
 ---
 
 ### 📝 Notice
-*본 프로젝트는 파일럿 기간(2주)의 증명을 위한 MVP 구동 버전입니다. Supabase 연동 코드는 `src/lib/supabase.ts`에 구성되어 있으며, 실제 데이터베이스 연결 시 곧바로 실데이터 기반의 운영이 가능하도록 설계되어 있습니다.*
-# patient-transfer-mvp
+*본 프로젝트는 PoC를 위한 MVP 구동 버전입니다. Supabase 연동 코드는 `src/lib/supabase.ts`에 구성되어 있으며, 실제 데이터베이스 연결 시 곧바로 실데이터 기반의 운영이 가능하도록 설계되어 있습니다.*
+
+# 화면 캡쳐 
+### 상급병원 워크스페이스
+<img width="1215" height="940" alt="image" src="https://github.com/user-attachments/assets/9bf8e4bf-55a9-497a-9c9e-30f67cfe6bcf" />
+### 환자 회송 요청
+<img width="1226" height="888" alt="image" src="https://github.com/user-attachments/assets/267f63f6-1eca-442a-819f-93b6ca67a2f4" />
+### 협력병원 워크스페이스
+<img width="1217" height="593" alt="image" src="https://github.com/user-attachments/assets/d4323272-4f28-4fd6-872f-4cd0ac2e549d" />
+
+
+
